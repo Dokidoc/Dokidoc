@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dok
 - 👀 I’m interested in Discord bot and Alt:V Plugin development (GTAV Client)
-- 📚 I’m currently learning Python and JavaScript
+- 📚 I’m currently learning HTML, CSS and JavaScript
 - 📫 How to reach me : dok.dev10@gmail.com | dsc.gg : Dok#9453
 
 <!---
